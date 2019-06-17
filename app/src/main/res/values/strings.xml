@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Substantial Apps</string>
+    <string name="login">LOGIN</string>
+    <string name="hi">Hi there!</string>
+    <string name="kindly">KINDLY SIGN IN TO CONTINUE</string>
+    <string name="email">EMAIL</string>
+    <string name="welcome">Welcome to Substantial</string>
+
+</resources>
